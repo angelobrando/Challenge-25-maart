@@ -1,0 +1,27 @@
+
+body {
+    background-color: aqua;
+}
+
+.card {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    float: left;
+    margin: 10px;
+    text-align: center;
+    color: black;
+    box-shadow: 2px 2px;
+}
+.card p {
+    margin-top: 0px;
+    text-align: center;
+    vertical-align: top
+}
+
+.wrapper {
+    height: 123px;
+    width: 600px;
+}
