@@ -1,0 +1,75 @@
+
+
+
+h1 {
+    padding: 30px;
+    margin: 0px;
+    color: white;
+    font-size: 500%
+}
+
+.cube1 {
+    border: 1px;
+    border-style: solid;
+    border-color: aqua;
+    height: 150px;
+    width: 150px;
+    background-color: salmon;
+    margin-bottom: 0px;
+    text-align: center;
+    vertical-align: middle
+}
+
+.cube2 {
+    border: 1px;
+    border-style: solid;
+    border-color: aqua;
+    height: 150px;
+    margin-top: 0px;
+    width: 150px;
+    background-color: palevioletred;
+    text-align: center;
+    vertical-align: middle
+}
+
+.cube3 {
+    border: 1px;
+    border-style: solid;
+    border-color: aqua;
+    height: 150px;
+    width: 150px;
+    background-color: rgb(111, 194, 149);
+    text-align: center;
+    vertical-align: middle
+}
+
+.cube4 {
+    border: 1px;
+    border-style: solid;
+    border-color: aqua;
+    height: 150px;
+    width: 150px;
+    background-color: rgb(100, 161, 51);
+    text-align: center;
+    vertical-align: middle
+}
+
+
+.wrapper1 {
+    float: left;
+    margin-left: 150px;
+    margin-top: 75px
+}
+
+.wrapper2 {
+    margin-top: 225px;
+    clear: left
+}
+
+.wrapper0 {
+    background-color: black;
+    display: flex;
+    border-radius: 30px;
+    height: 640px;
+    width: 640px;
+}
